@@ -1,0 +1,32 @@
+.table-item:hover {
+    background: rgb(210, 210, 210);
+}
+
+    .profile {
+        width: 60px;
+        height: 60px;
+        border-radius: 60px;
+    }
+
+        .profile-active {
+            border: 3px solid limegreen;
+        }
+
+        .profile-inactive {
+            border: 3px solid red;
+        }
+
+    .name-active {
+        color: limegreen;
+    }
+
+    .name-inactive {
+        color: red;
+    }
+
+.button2{
+    background-color: greenyellow;
+    padding: 5px 10px;
+    border-radius: 8px;
+    font-weight: bold;
+}

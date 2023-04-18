@@ -1,0 +1,6 @@
+@import "components/_form-component.css";
+
+@import "../components/form-create/form-create.style.css";
+@import "../components/form-update/form-update.style.css";
+@import "../components/student-table/student-table.style.css";
+@import "../components/student-table/student-table-item/student-table-item.style.css";
